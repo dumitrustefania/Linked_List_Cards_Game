@@ -76,7 +76,7 @@ all fuctionalities of both a list and a node inside of it).
         - if 2 cards have the same number, priority of the symbols will be
             HEART < SPADE < DIAMOND < CLUB
 
-14)EXIT
+14) EXIT
     - frees the memory for all the decks in the list
 	- frees the memory for the list
 	- stops the program
